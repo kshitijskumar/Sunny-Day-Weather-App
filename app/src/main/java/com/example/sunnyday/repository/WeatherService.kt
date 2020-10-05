@@ -7,7 +7,7 @@ import retrofit2.http.GET
 import retrofit2.http.Query
 
 private const val BASE_URL="https://api.openweathermap.org/"
-private const val API_KEY="106cfa4b6ccf0876d6525b273f2dc09d"
+private const val API_KEY="YOUR_API_KEY"
 
 interface WeatherService {
 
