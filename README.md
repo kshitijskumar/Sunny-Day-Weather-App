@@ -1,6 +1,6 @@
 # Sunny-Day-Weather-App
 A simple Weather App which fetches data from a REST api and shows it to user.
-For fetching data Retrofit library was used
+For fetching data Retrofit library was used.
 Tried to use MVVM architecture.
 
 # Screenshots
