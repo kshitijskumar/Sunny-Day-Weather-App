@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sunny Day</string>
+    <string name="weathericon">WeatherIcon</string>
+    <string name="city_name">City Name</string>
+    <string name="enter">Enter</string>
+</resources>
